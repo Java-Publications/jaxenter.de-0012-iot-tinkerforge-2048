@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: org.rapidpm.demo.jaxenter.blog0012.teil5.WeatherStation
+
